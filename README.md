@@ -12,6 +12,6 @@
  sin procesar (esta etapa a menudo se denomina "Capa Bronce").
  <h3 align="left">Capa de procesamiento en Azure Databricks:</h3>
  En el lado derecho, se muestra Azure Databricks nuevamente, pero en este caso con el objetivo de realizar transformaciones adicionales de los datos, estructurados en tres capas:
-Capa Bronce: Donde se almacena el dato crudo.
+#### [Capa Bronce](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/705185451510856/3027012851737615/779980591931427/latest.html)
 Capa Plata: Aquí se procesan los datos (limpieza, validación).
 Capa Oro: Datos completamente transformados y listos para análisis o uso en reportes y dashboards.
