@@ -2,8 +2,9 @@
 <div align="center">
   <img src="https://github.com/EmirReyes28/Contenido/blob/main/inmov.png" width="50%">
 </div>
-### Descripción del Proyecto
-Este proyecto está diseñado para recopilar automáticamente datos de sitios web inmobiliarios utilizando un proceso llamado **web scraping**. A través de un script en **Python**, el sistema extrae información clave sobre propiedades, como precios, ubicaciones y características, de diversas fuentes online.
+
+## Descripción del Proyecto
+Este proyecto está diseñado para recopilar automáticamente datos de sitios web inmobiliarios utilizando un proceso llamado web scraping. A través de un script en Python, el sistema extrae información clave sobre propiedades, como precios, ubicaciones y características, de diversas fuentes online.
 
 ## ¿Para qué sirve?
 Este sistema permite tener acceso en tiempo real a información actualizada sobre el mercado inmobiliario, lo que es útil para personas interesadas en comprar o invertir en propiedades. Además, facilita el análisis de tendencias del mercado.
