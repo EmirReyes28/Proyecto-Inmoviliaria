@@ -13,5 +13,8 @@
  ## Capa de procesamiento en Azure Databricks:
  En el lado derecho, se muestra Azure Databricks nuevamente, pero en este caso con el objetivo de realizar transformaciones adicionales de los datos, estructurados en tres capas:
 ### [Capa Bronce](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/705185451510856/3027012851737615/779980591931427/latest.html)
+- En esta capa se almacena la data cruda en un contenedor del ADLS llamado **bronze_layer**
 ### [Capa Plata](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/705185451510856/3027012851737620/779980591931427/latest.html)
+- En esta capa se hace el limpiado de la informacion tales como eliminacion de elementos duplicados, separacion de columnas por elementos, cambio de tipo de dato de la columna y generado de un archivo parquet.
 ### [Capa Oro](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/705185451510856/696789662287551/779980591931427/latest.html)
+-En esta capa se hizo un analisis mas detallado con respecto al costo promedio de departamentos y casas por distrito asi como el costo por metro cuadrado, con esta informacion es posible generar dashboards en power BI o Tableu.
