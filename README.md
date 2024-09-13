@@ -1,5 +1,7 @@
 <h1 align="center">Proyecto Inmoviliario</h1>
-<img src="https://github.com/EmirReyes28/Contenido/blob/main/inmov.png" width="50%">
+<div align="center">
+  <img src="https://github.com/EmirReyes28/Contenido/blob/main/inmov.png" width="50%">
+</div>
 ### texto explicativo
 <img src="https://github.com/EmirReyes28/Contenido/blob/main/Diagrama%20sin%20título.drawio.png" width="100%">
 
